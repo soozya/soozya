@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 <br>
 
-#### :memo: Record
+#### :memo:Record
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://soozya.tistory.com/)
 <br>
 
